@@ -507,6 +507,7 @@
 				F6963BD31E5327A200B8C65F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F6963BD41E5327A200B8C65F /* Build configuration list for PBXNativeTarget "WebViewTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +516,7 @@
 				F6963BD61E5327A200B8C65F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F6963BD71E5327A200B8C65F /* Build configuration list for PBXNativeTarget "WebViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +525,7 @@
 				F6963BD91E5327A200B8C65F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
